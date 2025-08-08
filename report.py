@@ -15,9 +15,9 @@ import time
 import sys
 from termcolor import colored
 
-api_id = 21441487
-api_hash = 'f02a9ae8ee728243bfd373da3f8df0c7'
-phone_number = '+8801770241333'
+api_id = 21441488
+api_hash = 'f02a9ae8ee728243bfd373da3f8df0c8'
+phone_number = '+8801770241223'
 
 report_reasons = {
     1: ("I don't like it", InputReportReasonOther()),
